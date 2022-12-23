@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
 body {
-  background: rgba(34, 102, 34, 0.911);
+  background: rgba(31, 94, 31, 0.911);
+
   overflow: hidden;
 }
 
@@ -61,7 +62,7 @@ button.dimd {
   width: 400px;
   height: 250px;
   /* background: white; */
-  background: rgba(184, 19, 19, 0.87);
+  background: rgba(201, 22, 22, 0.87);
   transform: rotateX(-10deg);
   transform-origin: bottom center;
   transform-style: preserve-3d;
